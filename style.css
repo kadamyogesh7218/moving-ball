@@ -1,0 +1,21 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+#container{
+    width:100vw;
+    height:100vh;
+}
+
+
+#ball{
+ height: 15vh;
+ width:15vh;
+ background-color: aqua;
+ border-radius: 50%;
+ position: relative;
+ top:45vh;
+ left:45vw;
+
+}
